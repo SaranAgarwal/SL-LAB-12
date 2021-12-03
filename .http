@@ -1,0 +1,8 @@
+POST http://localhost:3000/
+Content-Type: application/json
+
+{   
+    "bookName": "One Hundred Years of Solitude",
+    "studentName": "Varun",
+    "dueDate": "20-12-2021"
+}
